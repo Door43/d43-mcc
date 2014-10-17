@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcc:home|Door43 (mcc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcc|d43-mcc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcc/archive/master.zip|d43-mcc.zip]]
+
+**Recent Changes**
+{{changes>ns = mcc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcc|Ethnologue data]]
+
